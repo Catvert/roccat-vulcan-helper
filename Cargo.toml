@@ -1,0 +1,10 @@
+[package]
+name = "roccat-vulcan-helper"
+version = "0.1.0"
+authors = ["Arno Dupont <arn.dupont@student.helmo.be>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0"
+ron = "0.5.0"
+clap = "2.32.0"

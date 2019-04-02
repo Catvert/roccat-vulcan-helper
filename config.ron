@@ -1,0 +1,614 @@
+(
+    impact_settings: (
+        fixed_keys: [
+            (
+                id: "A",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "Z",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "E",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "R",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "T",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "Y",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "U",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "I",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "O",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "P",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "Q",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "S",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "D",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "F",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "G",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "H",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "J",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "K",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "L",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "M",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "W",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "X",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "C",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "V",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "B",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "N",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "SEMICOLON",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "COMMA",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "DOT",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "SLASH",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "APOSTROPHE",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "BACKSLASH",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "LEFTBRACE",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "RIGHTBRACE",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "MINUS",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "EQUAL",
+                category: 1,
+                custom_color: None,
+            ),
+            (
+                id: "TAB",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "CAPSLOCK",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "LEFTSHIFT",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "RIGHTSHIFT",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "LEFTCTRL",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "RIGHTCTRL",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "LEFTALT",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "RIGHTALT",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "COMPOSE",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "BACKSPACE",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "SPACE",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "KPDOT",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "KPPLUS",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "KPMINUS",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "KPASTERISK",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "KPSLASH",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "NUMLOCK",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "SYSRQ",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "SCROLLLOCK",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "PAUSE",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "INSERT",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "HOME",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "PAGEUP",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "PAGEDOWN",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "END",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "DELETE",
+                category: 4,
+                custom_color: None,
+            ),
+            (
+                id: "0",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "1",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "2",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "3",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "4",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "5",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "6",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "7",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "8",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "9",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP0",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP1",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP2",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP3",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP4",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP5",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP6",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP7",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP8",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "KP9",
+                category: 2,
+                custom_color: None,
+            ),
+            (
+                id: "F1",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F2",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F3",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F4",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F5",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F6",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F7",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F8",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F9",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F10",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F11",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "F12",
+                category: 3,
+                custom_color: None,
+            ),
+            (
+                id: "ENTER",
+                category: 5,
+                custom_color: None,
+            ),
+            (
+                id: "KPENTER",
+                category: 5,
+                custom_color: None,
+            ),
+            (
+                id: "102ND",
+                category: 5,
+                custom_color: None,
+            ),
+            (
+                id: "GRAVE",
+                category: 5,
+                custom_color: None,
+            ),
+            (
+                id: "ESC",
+                category: 6,
+                custom_color: None,
+            ),
+            (
+                id: "UP",
+                category: 6,
+                custom_color: None,
+            ),
+            (
+                id: "DOWN",
+                category: 6,
+                custom_color: None,
+            ),
+            (
+                id: "RIGHT",
+                category: 6,
+                custom_color: None,
+            ),
+            (
+                id: "LEFT",
+                category: 6,
+                custom_color: None,
+            ),
+            (
+                id: "LEFTMETA",
+                category: 6,
+                custom_color: None,
+            ),
+        ],
+        fixed_categories: [
+            (
+                id: 1,
+                description: "Main color[letters]",
+                color: (
+                    r: 10,
+                    g: 20,
+                    b: 30,
+                ),
+            ),
+            (
+                id: 2,
+                description: "Digits color",
+                color: (
+                    r: 0,
+                    g: 100,
+                    b: 30,
+                ),
+            ),
+            (
+                id: 3,
+                description: "Functions color[F1, F2..]",
+                color: (
+                    r: 255,
+                    g: 85,
+                    b: 0,
+                ),
+            ),
+            (
+                id: 4,
+                description: "Specials color [CTRL, ALT, TAB, SHIFT..]",
+                color: (
+                    r: 0,
+                    g: 20,
+                    b: 20,
+                ),
+            ),
+            (
+                id: 5,
+                description: "Specials 2 color [ENTER, GRAVE..]",
+                color: (
+                    r: 255,
+                    g: 0,
+                    b: 0,
+                ),
+            ),
+            (
+                id: 6,
+                description: "Specials 3 color [ESC, ARROWS, META..]",
+                color: (
+                    r: 255,
+                    g: 255,
+                    b: 255,
+                ),
+            ),
+        ],
+        color_idx: ((
+            r: 0,
+            g: 0,
+            b: 119,
+        ), (
+            r: 2303,
+            g: 0,
+            b: -255,
+        ), (
+            r: 2303,
+            g: 0,
+            b: -143,
+        ), (
+            r: 2303,
+            g: 0,
+            b: 0,
+        ), (
+            r: 187,
+            g: 0,
+            b: 187,
+        ), (
+            r: 153,
+            g: 0,
+            b: 187,
+        ), (
+            r: 85,
+            g: 0,
+            b: 170,
+        )),
+    ),
+    wave_speed: 6,
+    mode: Impact,
+    config_path: "config.ron",
+)
